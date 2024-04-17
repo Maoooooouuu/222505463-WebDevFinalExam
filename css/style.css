@@ -1,0 +1,16 @@
+.h1{
+    position: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+}
+.nav {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.flex-container > div {
+    flex-wrap: wrap;
+    background-color: bisque;
+    flex-grow: inherit;
+    flex-flow: row;
+}
