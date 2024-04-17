@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+.h1{
+    position: fixed;
+}
+.nav {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.section{
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+}
+.flex-container > div {
+    flex-wrap: wrap;
+    background-color: bisque;
+    flex-grow: inherit;
+    flex-flow: row;
+}
+=======
 .h1{
     position: fixed;
     font-family: 'Times New Roman', Times, serif;
@@ -14,3 +33,4 @@
     flex-grow: inherit;
     flex-flow: row;
 }
+>>>>>>> 81427e0e139d4edef70d67dc2bc7a6de1d596a03
